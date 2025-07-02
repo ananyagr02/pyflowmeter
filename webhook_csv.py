@@ -14,7 +14,7 @@ CHUNK_DATA_DIRECTORY = "chunk_data"
 # IMPORTANT: Get your n8n Webhook URL and paste it here.
 # This URL will look something like: https://your-n8n-instance.n8n.cloud/webhook-test/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 # Be cautious with sharing this URL!
-N8N_WEBHOOK_URL = "https://cybershield11.app.n8n.cloud/webhook/5e45ff51-f637-430b-9f79-61773aca79c7" # <--- REPLACE WITH YOUR ACTUAL WEBHOOK URL
+N8N_WEBHOOK_URL = "https://metasage-ai.app.n8n.cloud/webhook-test/79975fb8-b60c-4261-a447-77ab1df4d99c" # <--- REPLACE WITH YOUR ACTUAL WEBHOOK URL
 # Make sure your n8n workflow is set up with a Webhook node listening for POST requests.
 
 # Polling interval to check the CHUNK_DATA_DIRECTORY for new files (in seconds)

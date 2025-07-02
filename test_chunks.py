@@ -37,7 +37,7 @@ CHUNK_OUTPUT_DIR = "chunk_data" # <--- NEW: Directory for chunked output
 PACKET_CHUNK_SIZE = 100 # <--- NEW: Define the chunk size
 
 # Duration in seconds after which the capture should automatically stop
-CAPTURE_DURATION_SECONDS = 180
+CAPTURE_DURATION_SECONDS = 80
 
 # --- Script Logic ---
 
